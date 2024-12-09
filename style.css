@@ -90,92 +90,10 @@ footer {
     color: #fff; /* Color del texto */
     text-align: center; /* Centra el texto */
     padding: 1em 0; /* Relleno del pie de página */
-    margin-top: 2em; /* Margen superior del pie de página */
+    margin-top: 0; /* Margen superior del pie de página */
 }
 
 footer p {
     margin: 0; /* Elimina el margen del párrafo */
 }
 
-
-
-
-
-/* General Styles 
-body {
-    font-family: 'Courier New', Courier, monospace;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-    color: #3b5998;
-}
-
-header {
-    background: #3b5998;
-    color: #fff;
-    padding: 1em 0;
-}
-
-header h1 {
-    text-align: center;
-    margin: 0;
-}
-
-nav ul {
-    display:flex;
-    justify-content: center;
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    margin: 0 1em;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-section {
-    padding: 2em;
-    margin: 2em 0;
-}
-
-section#contactame form {
-    display: flex;
-    flex-direction: column;
-}
-
-section#contactame label {
-    margin: 0.5em 0 0.2em;
-}
-
-section#contactame input, section#contactame textarea {
-    padding: 0.5em;
-    margin-bottom: 1em;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-section#contactame input[type="submit"] {
-    background: #3b5998;
-    color: #fff;
-    border: none;
-    padding: 0.7em;
-    cursor: pointer;
-}
-
-footer {
-    background: #3b5998;
-    color: #fff;
-    text-align: center;
-    padding: 1em 0;
-    margin-top: 2em;
-}
-
-footer p {
-    margin: 0;
-}
-*/
